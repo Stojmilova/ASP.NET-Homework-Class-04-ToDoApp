@@ -1,0 +1,31 @@
+﻿@model User
+@{
+    ViewBag.Title = "Not Done Tasks";
+}
+
+<h3>@ViewBag.Title</h3>
+<table>
+    <thead>
+
+    </thead>
+    <tbody>
+        @foreach (var task in Model.CreatedTasks)
+        {
+            if (task.Status == TypeStatus.NotDone)
+            {
+                <tr>
+                    <td>
+                        @task.Title => @task.TaskType => @task.Priority
+                        <div> Sub Tasks:</div>
+                        <ul>
+                            @foreach (var subTask in task.SubTasks)
+                            {
+                                <li>Title: @subTask.Title => Description: @subTask.Description</li>
+                            }
+                        </ul>
+                    </td>    
+                </tr>
+            }
+        }
+    </tbody>
+</table>

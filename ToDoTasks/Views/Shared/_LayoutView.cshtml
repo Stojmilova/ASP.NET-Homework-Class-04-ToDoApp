@@ -1,0 +1,33 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title - ToDoApp</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <!--Header with navigation to all the pages-->
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("HomePage", "Index", "Home")</li>
+                <li>@Html.ActionLink("Done", "DoneTasks", "Task", new { id = 3 }, null)</li>
+                <li>@Html.ActionLink("In progress", "InProgressTasks", "Task", new { id = 3 }, null)</li>
+                <li>@Html.ActionLink("Not Done", "NotDoneTasks", "Task", new {id = 3 }, null)</li>
+                <li>@Html.ActionLink("Statistics", "UserStatistics", "Task", new { id = 3 }, null)</li>
+            </ul>
+        </nav>
+    </header>
+
+    @RenderBody()
+
+    <footer>
+        <!--Footer with contact information and email to contact support.-->
+        <div>Contact Information:</div>
+    </footer>
+
+    <script src="~/site.js"></script>
+</body>
+</html>
