@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stojmilova\\Desktop\\ASP.NET MVC\\Homework - Class 4\\ToDoApp\\ToDoTasks\\ToDoTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Stojmilova\\Desktop\\Homework\\ToDoApp\\ToDoTasks\\ToDoTasks.csproj",
       "projectName": "ToDoTasks",
-      "projectPath": "C:\\Users\\Stojmilova\\Desktop\\ASP.NET MVC\\Homework - Class 4\\ToDoApp\\ToDoTasks\\ToDoTasks.csproj",
+      "projectPath": "C:\\Users\\Stojmilova\\Desktop\\Homework\\ToDoApp\\ToDoTasks\\ToDoTasks.csproj",
       "packagesPath": "C:\\Users\\Stojmilova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stojmilova\\Desktop\\ASP.NET MVC\\Homework - Class 4\\ToDoApp\\ToDoTasks\\obj\\",
+      "outputPath": "C:\\Users\\Stojmilova\\Desktop\\Homework\\ToDoApp\\ToDoTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

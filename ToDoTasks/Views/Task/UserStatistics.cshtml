@@ -3,4 +3,32 @@
     ViewBag.Title = "User Statistics";
 }
 
-<h3>@ViewBag.Title</h3>
+<h1 style ="color:grey">@ViewBag.Title</h1>
+<br />
+<table style="border:3px  double grey; width:100%; margin-bottom:10px; padding:5px">
+    <thead>
+        <tr>
+            <th>FirstName: </th>
+            <th>LastName: </th>
+            <th>Age: </th>
+            <th>Average Free Time: </th>
+            <th>Email </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border:1px solid black">@Model.FirstName</td>
+
+            <td style="border:1px solid black">@Model.LastName</td>
+
+            <td style="border:1px solid black">@Model.Age</td>
+
+            <td style="border:1px solid black">@Model.AverageFreeTime </td>
+
+            <td style="border:1px solid black">@Model.Email</td>
+        </tr>
+    </tbody>
+
+</table>
+<br />
+

@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ToDoTasks.Models.Enums;
 
 namespace ToDoTasks.Models.DomainModels
 {
     public class ToDoTask
     {
+        public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public TypePriority Priority { get; set; }  
@@ -18,25 +20,5 @@ namespace ToDoTasks.Models.DomainModels
         {
             SubTasks = new List<SubTask>();
         }
-    }
-
-    public enum TypePriority
-    {
-        Important = 1,
-        MediumImportance,
-        NotImportant,
-
-    }
-    public enum TypeStatus
-    {
-        NotDone,
-        InProgress,
-        Done
-    }
-    public enum TypeOfTask
-    {
-        Work,
-        Personal,
-        Hobby
     }
 }

@@ -58,3 +58,35 @@ C:\Users\Stojmilova\Desktop\ASP.NET MVC\Homework - Class 4\ToDoApp\ToDoTasks\obj
 C:\Users\Stojmilova\Desktop\ASP.NET MVC\Homework - Class 4\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.dll
 C:\Users\Stojmilova\Desktop\ASP.NET MVC\Homework - Class 4\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.pdb
 C:\Users\Stojmilova\Desktop\ASP.NET MVC\Homework - Class 4\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.deps.json
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.dll
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.pdb
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.Views.dll
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\bin\Debug\netcoreapp2.1\ToDoTasks.Views.pdb
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.RazorAssemblyInfo.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.RazorAssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.TagHelpers.input.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.TagHelpers.output.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.RazorCoreGenerate.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutView.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Task\DoneTasks.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Task\InProgressTasks.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Task\NotDoneTasks.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Task\UserStatistics.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.RazorTargetAssemblyInfo.cache
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.RazorTargetAssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.Views.pdb
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.dll
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.pdb
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Task\AddNewTask.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AddedTask.g.cshtml.cs
+C:\Users\Stojmilova\Desktop\Homework - Class 05\ToDoApp\ToDoTasks\obj\Debug\netcoreapp2.1\ToDoTasks.csprojAssemblyReference.cache
